@@ -1,4 +1,4 @@
-```markdown
+```
 # ChatGPT-style Chatbot Powered by Google AI Studio & Streamlit
 
 Welcome to your very own ChatGPT-like chatbot app! This project combines the power of Google AI Studio’s generative models (like Gemini) with an elegant, user-friendly chat interface built using Streamlit. Build, chat, and customize your bot all in Python—with no need for complex frontend coding.
