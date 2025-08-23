@@ -7,3 +7,8 @@ __pycache__/
 
 # Ignore dependency folders
 chatbotai/
+
+# Ignore setup.py result files
+build/
+dist/
+*.egg-

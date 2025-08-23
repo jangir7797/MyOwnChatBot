@@ -2,6 +2,3 @@ requests
 python-dotenv
 streamlit
 google-generativeai
-dash
-dash-bootstrap-components
-# -e .
