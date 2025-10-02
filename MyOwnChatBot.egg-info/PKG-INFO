@@ -2,8 +2,8 @@ Metadata-Version: 2.4
 Name: MyOwnChatBot
 Version: 0.1.0
 Summary: An chatbot application
-Author: Himanshu Jangir
-Author-email: himanshujangir7797@gmail.com
+Author: xx xx
+Author-email: xxxx@gmail.com
 Requires-Dist: requests
 Requires-Dist: python-dotenv
 Requires-Dist: streamlit
