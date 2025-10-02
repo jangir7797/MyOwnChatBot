@@ -18,8 +18,8 @@ setup(
 name='MyOwnChatBot',
 version='0.1.0',
 description='An chatbot application',
-author='Himanshu Jangir',
-author_email='himanshujangir7797@gmail.com',
+author='xx xx',
+author_email='xxxxx@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
 )
